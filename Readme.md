@@ -13,6 +13,6 @@
 |3-Implementation|All the code is written here|
 |4-TestCases|Documents with test plans|
 |5_Report|Final Report of the Project|
-|6_Output|All the images and Video of program execution|
+|6_Output|All the images and Video of project execution|
 
 
